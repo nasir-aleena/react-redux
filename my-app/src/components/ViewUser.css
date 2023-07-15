@@ -1,0 +1,11 @@
+.viewContainer{
+    position: fixed;
+    background-color: rgb(245, 245, 233);
+    /* background-image: linear-gradient(to right, rgb(158, 63, 210), rgb(150, 150, 247); */
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    text-align: center;
+}
+
