@@ -1,0 +1,6 @@
+
+
+//Creating Database
+
+create database userDetails;
+use userDetails;
